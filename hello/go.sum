@@ -1,0 +1,6 @@
+github.com/kubeless/kubeless v0.6.0 h1:/9JEWnTBD5rSh0WJ84Kiq+kvMdC3OqBYhipqGobgWdE=
+github.com/kubeless/kubeless v0.6.0/go.mod h1:eBSqNpFBgiemDH1gmDcIndBDbGgoZJobww4ZaFK9N1k=
+github.com/sunfmin/fanout v0.0.0-20171103081433-ba3f882900e1 h1:I04k/Vy2oYB5E2w4nT2G7KB4k8qkDg86S7p6CYULaM4=
+github.com/sunfmin/fanout v0.0.0-20171103081433-ba3f882900e1/go.mod h1:Ifj18mflEOcwW4rAyHfslz7UfMV/V5zkOPX+n+uACYo=
+golang.org/x/net v0.0.0-20180906233101-161cd47e91fd h1:nTDtHvHSdCn1m6ITfMRqtOd/9+7a3s8RBNOZ3eYZzJA=
+golang.org/x/net v0.0.0-20180906233101-161cd47e91fd/go.mod h1:mL1N/T3taQHkDXs73rZJwtUhF3w3ftmwwsq0BUmARs4=
